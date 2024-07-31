@@ -12,7 +12,7 @@ email: oscar.infmon@gmail.com
 website: https://alexei-im.github.io/Prueba_CV/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -48,30 +48,61 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Oscar and I'm a future scientist with a master's degree on biochemistry, focused on Bt proteins and their insecticidal effect.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Molecular techniques</mark> and <mark>Bioinformatic analysis</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Identification of the interaction sites of the Vip3Aa toxin with its receptors in Spodoptera frugiperda
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Revista donde se publico
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Publicacion resultado de mi proyecto de maestria
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Despues de dos anos de largo esfuerzo se consiguio la publicacion de este articulo donde yo no escribi ni vergas ahuevo que si.
+      - layout: top-middle
+              title: Proyecto con Minhui
+              link: github.com/sproogen
+              # link_text: Project Website
+              additional_links:
+                - title:  Revista donde se publico esta wuea
+                  icon: fab fa-github
+                  url: github.com/sproogen/modern-resume-theme
+                # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+                #   icon: fab fa-github
+                #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+              quote: >
+                Esta publicacion la realice en el AGIS
+              description: | # this will include new lines to allow paragraphs
+                Durante mi primer estancia internacional y como parte de mis estudios de maestria realice un numero de experimentos que fueron esenciales para la corroboracion de esta investigacion
+                
+      - layout: top-middle
+              title: Proyecto con ZouLoumin
+              link: github.com/sproogen
+              # link_text: Project Website
+              additional_links:
+                - title:  Revista donde se publico esta wuea
+                  icon: fab fa-github
+                  url: github.com/sproogen/modern-resume-theme
+                # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+                #   icon: fab fa-github
+                #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+              quote: >
+                Esta publicacion la realice en el AGIS
+              description: | # this will include new lines to allow paragraphs
+                Durante mi primer estancia internacional y como parte de mis estudios de maestria realice un numero de experimentos que fueron esenciales para la corroboracion de esta investigacion
+                
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
