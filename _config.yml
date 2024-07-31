@@ -51,8 +51,33 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Oscar and I'm a future scientist with a master's degree on biochemistry, focused on Bt proteins and their insecticidal effect.
 
   I am most skilled in: <mark>Molecular techniques</mark> and <mark>Bioinformatic analysis</mark>
+- title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Coding
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+         # - title:  Revista donde se publico
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+         # Publicacion resultado de mi proyecto de maestria
+        description: | # this will include new lines to allow paragraphs
+          Python, R, Perl, bash, MySQL, C and Matlab
+      - layout: top-middle
+        title: Bioinformatics
+        description: |
+        Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
+      - layout: top-middle
+        title: Molecular techniques
+        description: |
+        PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
 
-content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
