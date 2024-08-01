@@ -87,7 +87,37 @@ content:
           Publicacion resultado de mi proyecto de maestria
         description: | # this will include new lines to allow paragraphs
           Despues de dos anos de largo esfuerzo se consiguio la publicacion de este articulo donde yo no escribi ni vergas ahuevo que si.
-            
+      - layout: top-middle
+        title: Proyecto con Minhui
+        link: link_de_la_publicacion_o_doi
+        link_text: Project Website
+        additional_links:
+          - title:  Revista donde se publico esta wuea
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Esta publicacion la realice en el AGIS
+        description: | # this will include new lines to allow paragraphs
+          Durante mi primer estancia internacional y como parte de mis estudios de maestria realice un numero de experimentos que fueron esenciales para la corroboracion de esta investigacion        
+      - layout: top-middle
+        title: Proyecto con ZouLoumin
+        link: link_de_la_publicacion_o_doi
+        # link_text: Project Website
+        additional_links:
+          - title:  Revista donde se publico esta wuea
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Esta publicacion la realice en el AGIS
+        description: | # this will include new lines to allow paragraphs
+          Durante mi primer estancia internacional y como parte de mis estudios de maestria realice un numero de experimentos que fueron esenciales para la corroboracion de esta investigacion
+                    
         
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
