@@ -52,22 +52,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Molecular techniques</mark> and <mark>Bioinformatic analysis</mark>
 content:
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Coding
-        quote: >
-            Python, R, Perl, bash, MySQL, C and Matlab
-      - layout: top-middle
-        title: Bioinformatics
-        quote: >
-            Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
-      - layout: top-middle
-        title: Molecular techniques
-        quote: >
-            PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
-  
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -116,6 +100,23 @@ content:
           Esta publicacion la realice en el AGIS
         description: | # this will include new lines to allow paragraphs
           Durante mi primer estancia internacional y como parte de mis estudios de maestria realice un numero de experimentos que fueron esenciales para la corroboracion de esta investigacion
+
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Coding
+        quote: >
+            Python, R, Perl, bash, MySQL, C and Matlab
+      - layout: top-middle
+        title: Bioinformatics
+        quote: >
+            Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
+      - layout: top-middle
+        title: Molecular techniques
+        quote: >
+            PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
+  
                 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
