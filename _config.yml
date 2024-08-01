@@ -60,22 +60,15 @@ content:
         title: Coding
         quote: >
             Python, R, Perl, bash, MySQL, C and Matlab
-        description: | # this will include new lines to allow paragraphs
-            Python, R, Perl, bash, MySQL, C and Matlab
       - layout: top-middle
         title: Bioinformatics
-        link: lameraverga.com
         quote: >
             Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
-        description: |
-            Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
-      - layout: top-middle
+              - layout: top-middle
         title: Molecular techniques
         quote: >
             PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
-        description: |
-            PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
-
+        
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
