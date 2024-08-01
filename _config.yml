@@ -59,6 +59,8 @@ content:
       - layout: top-middle
         title: Coding
         content:
+          quote: >
+          Python, R, Perl, bash, MySQL, C and Matlab
           description: | # this will include new lines to allow paragraphs
             Python, R, Perl, bash, MySQL, C and Matlab
       - layout: top-middle
