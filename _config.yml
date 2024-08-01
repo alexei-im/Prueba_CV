@@ -68,6 +68,26 @@ content:
         title: Molecular techniques
         quote: >
             PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
+            
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Identification of the interaction sites of the Vip3Aa toxin with its receptors in Spodoptera frugiperda
+        link: link_de_la_publicacion_o_doi
+        # link_text: Project Website
+        additional_links:
+          - title:  Revista donde se publico
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Publicacion resultado de mi proyecto de maestria
+        description: | # this will include new lines to allow paragraphs
+          Despues de dos anos de largo esfuerzo se consiguio la publicacion de este articulo donde yo no escribi ni vergas ahuevo que si.
+            
         
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
