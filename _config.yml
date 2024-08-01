@@ -64,7 +64,7 @@ content:
         title: Bioinformatics
         quote: >
             Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
-              - layout: top-middle
+      - layout: top-middle
         title: Molecular techniques
         quote: >
             PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
