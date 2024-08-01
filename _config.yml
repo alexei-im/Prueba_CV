@@ -58,13 +58,13 @@ content:
     content:
       - layout: top-middle
         title: Coding
-        content:
-          quote: >
-          Python, R, Perl, bash, MySQL, C and Matlab
-          description: | # this will include new lines to allow paragraphs
+        quote: >
+            Python, R, Perl, bash, MySQL, C and Matlab
+        description: | # this will include new lines to allow paragraphs
             Python, R, Perl, bash, MySQL, C and Matlab
       - layout: top-middle
         title: Bioinformatics
+        link: lameraverga.com
         content:
           description: |
             Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
