@@ -53,6 +53,25 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Coding
+        content:
+          description: | # this will include new lines to allow paragraphs
+            Python, R, Perl, bash, MySQL, C and Matlab
+      - layout: top-middle
+        title: Bioinformatics
+        content:
+          description: |
+            Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
+      - layout: top-middle
+        title: Molecular techniques
+        content:
+          description: |
+            PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
