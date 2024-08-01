@@ -148,7 +148,50 @@ content:
           I have always been very curious about web design, so I took a short course to satisfy this curiosity
         description: | # this will include new lines to allow paragraphs
           This course covered basic topics on how HTML and CSS work, culminating in an attempt to replicate the YouTube interface. I am very pleased with the final result of this mini-project.
-
+  - title: Personal goals
+    layout: list
+    content:    
+      - layout: left
+        title: Learn Chinese.
+        #link: https://www.worldmarathonmajors.com/six-star
+        # link_text: boringcompany.com
+        sub_title: Wo shi zhonguo ren
+        caption: in two years (2026)
+        quote: >
+          Being able to speak three of the most common languages can be very useful.
+        description: | # this will include new lines to allow paragraphs
+          During my stay in China, I realized the difficulty of the language and my own frustration at not being able to learn it. I want to overcome that frustration.
+      - layout: left
+        title: Complete the six World Marathon Majors.
+        link: https://www.worldmarathonmajors.com/six-star
+        # link_text: boringcompany.com
+        sub_title: Run around the world
+        caption: Someday
+        quote: >
+          "It seems to me that they are trying to defy death; they claim they want to conquer life. They're completely out of their minds." Marciano Durán 2008.
+        description: | # this will include new lines to allow paragraphs
+          What is life without challenges that push you beyond your limits? For me, due to the logistical aspects, the time required for classification, and everything involved in traveling and exploring the world, this is one of my life's goals.
+      - layout: left
+        title: Play the harmonica.
+        # link: https://www.worldmarathonmajors.com/six-star
+        # link_text: boringcompany.com
+        sub_title: Beat my own rhythim 
+        caption: in three years (2027)
+        quote: >
+          I would like to be able to play an instrument reasonably well
+        description: | # this will include new lines to allow paragraphs
+          Throughout my life, I have been avoiding learning music due to my lack of talent. It's time to roll up my sleeves and get to work
+      - layout: left
+        title: Become an Ironman
+        link: https://www.ironman.com/
+        # link_text: boringcompany.com
+        sub_title: IRONMAN
+        caption: Someday
+        quote: >
+          Push push and keep pushing
+        description: | # this will include new lines to allow paragraphs
+          Why swim 3.8 kilometers, bike 180 kilometers, and run 42 kilometers? Is it for personal satisfaction, to show off, or as the ultimate physical challenge? I'm not sure yet, but I want to find out.
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
