@@ -65,13 +65,15 @@ content:
       - layout: top-middle
         title: Bioinformatics
         link: lameraverga.com
-        content:
-          description: |
+        quote: >
+            Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
+        description: |
             Genome assembly, Genome annotation, Metagenomics, Transcriptomic  analysis, Machine learning, Gene ontology, Phylogenetic, Protein structure, Databases, Parsing, Plotting, Regulatory networks.
       - layout: top-middle
         title: Molecular techniques
-        content:
-          description: |
+        quote: >
+            PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
+        description: |
             PCR, mutagenesis, protein expression, purification, binding assays, western blot, restriction enzymes.
 
   - title: Projects # Title for the section
